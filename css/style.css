@@ -1,0 +1,57 @@
+/* This symbol will affect all the element */
+/* Import rule from: https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap */
+
+
+h1 { 
+    color: rgb(4, 75, 207);
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: green 1px solid;
+}
+
+main {
+    width: 50%;
+
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 500;
+    font-family: "Quicksand", sans-serif;
+    color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+img { border-radius: 100px; }
+
+header > section > span > em {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+}
+
+section {
+    background-color: cadetblue;
+    margin-top: 50px;
+    
+}
+
+section > p { margin-left: 30px;}
+
+.related-recipes > li { margin: 10px;}
+
+p {border: 1px blue solid;
+padding: 20px;}
+
+.related-recipes { font-family: 'Century Gothic';}
